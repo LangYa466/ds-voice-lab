@@ -83,7 +83,7 @@ export function App() {
           localStorage。语音识别上限 120 秒 / 8 MiB，合成上限 10,000 计费字符。
         </p>
         <p>
-          源码 MIT。<a href="https://api-docs.deepseek.com/zh-cn/guides/tts" target="_blank" rel="noreferrer">API 文档</a>
+          源码 <a href="https://github.com/LangYa466/ds-voice-lab" target="_blank" rel="noreferrer">MIT</a>。<a href="https://api-docs.deepseek.com/zh-cn/guides/tts" target="_blank" rel="noreferrer">API 文档</a>
         </p>
       </footer>
     </div>
